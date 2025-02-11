@@ -1,4 +1,9 @@
 # 62130234-JavaProgramming
 Lưu bài tập
 
--Clone xong rồi!!
+Nguyễn Thành Đạt_62130234
+
+- Clone xong rồi!!
+
+- Đã làm xong Lab1
+
